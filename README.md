@@ -15,7 +15,7 @@ Aplicativo de e-commerce construído com **React Native (Expo)**. Este aplicativ
 
 4. Inicie o Expo:
    ```bash
-   npm run dev
+   npx expo start
    ```
 5. Pressione `a` para abrir no Emulador Android, ou escaneie o QR Code usando o aplicativo **Expo Go**.
 
